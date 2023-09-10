@@ -1,0 +1,50 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+ background-image: url(back.jpg.jpg);
+}
+
+.Admin_login
+{
+    
+    align-content: center;
+    text-justify: auto;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 40%;
+    width: 30%;
+    height: 29%;
+    background: aqua;
+    border: 4px solid black;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+ .Admin_login_feild
+{
+    padding: 10px;
+
+    
+}
+
+h2
+{
+    text-decoration: underline;
+    padding: 10px;
+    background-color: olivedrab;
+    border-radius: 5px;
+    
+}
+
+.extra
+{
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
